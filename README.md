@@ -10,19 +10,19 @@ password=123
 Login endpoint:
 
 ```http
-POST /Login
+POST v1/user/login
 ```
 
 Logout endpoint:
 
 ```http
-POST /logout
+POST v1/user/logout
 ```
 
 Register endpoint:
 
 ```http
-POST /register
+POST v1/user/register
 ```
 
 | Parameter | Type     | Description             |
