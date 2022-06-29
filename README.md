@@ -1,5 +1,7 @@
 ## Database
-H2 databse used for this project and H2 console port = http://localhost:8080/h2-console
+H2 database used for this project and H2 console link = http://localhost:8080/h2-console                  
+UserName=sa       
+password=123
 
 
 
@@ -49,10 +51,6 @@ For logout:
 ```javascript
 {
     "email": "EMAIL"
-    
-    or
-
-    "userName": "USERNAME"
 }
 ```
 For register:
